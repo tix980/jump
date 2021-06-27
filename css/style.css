@@ -1,0 +1,25 @@
+.grid{
+  width:400px;
+  height:600px;
+  background-image:url('../img/background.jpg');
+  background-size:400px 600px;
+  position: relative;
+  font-size:200px;
+  text-align: center;
+}
+
+.doodler{
+  width:60px;
+  height:85px;
+  background-image:url("../img/toad.jpg");
+  background-size: 65px 85px;
+  position:absolute;
+}
+
+.platform{
+  width:85px;
+  height:15px;
+  background-image:url('../img/platform.png');
+  background-size: 85px 15px;
+  position:absolute;
+}
